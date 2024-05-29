@@ -1,0 +1,22 @@
+[
+    {
+        "naziv": "Maksimir_1",
+        "napunjenost": 70.0,
+        "polozaj": "OK"
+    },
+    {
+        "naziv": "Maksimir_2",
+        "napunjenost": 30.5,
+        "polozaj": "-"
+    },
+  {
+        "naziv": "NZG_Sopot_1",
+        "napunjenost": 23.6,
+        "polozaj": "OK"
+    },
+    {
+        "naziv": "NZG_Sopot_2",
+        "napunjenost": 30.8,
+        "polozaj": "-"
+    }
+]
